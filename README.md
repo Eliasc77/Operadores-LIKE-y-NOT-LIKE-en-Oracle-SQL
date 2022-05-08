@@ -1,0 +1,1 @@
+# Operadores-LIKE-y-NOT-LIKE-en-Oracle-SQL
